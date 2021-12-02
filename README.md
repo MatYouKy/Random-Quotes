@@ -2,8 +2,11 @@
 
 # Project Status
     Active
+
 # Deploy
+
     [https://matyouky.github.io/random-quotes]
+
 # Technologies
 
 - React
