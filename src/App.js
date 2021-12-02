@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react/cjs/react.development';
 import { useRef } from 'react';
 import './App.css';
 
-function App() {
+export const App = () => {
   const [quotes, setQuotes] = useState([]);
   const [quote, setQuote] = useState({
     quote:'',
@@ -50,5 +50,3 @@ function App() {
     </main>
   );
 }
-
-export default App;
