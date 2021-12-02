@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react/cjs/react.development';
+import { useEffect, useState } from 'react';
 import { useRef } from 'react';
 import './App.css';
 
@@ -50,3 +50,4 @@ export const App = () => {
     </main>
   );
 }
+
